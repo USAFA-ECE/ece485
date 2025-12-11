@@ -24,8 +24,8 @@ The **Grade distribution** for this course is shown below.
 |     Prog                  |             |     Final              |             |
 |---------------------------|-------------|------------------------|-------------|
 |     GRs (1)               |     13%     |     GRs (2)            |     40%     |
-|     Slills Review         |     13%     |     HW/Quizzez/CPH/lab |     25%     |
-|   HW/Quizzez/CPH/lab      |     54%     |     Final Project      |     35%     |
+|     Slills Review         |     13%     |     HW/Quizzes/CPH/lab |     25%     |
+|   HW/Quizzes/CPH/lab      |     54%     |     Final Project      |     35%     |
 |                           |             |                        |             |
 |     Total                 |     100%    |     Total              |     100%    |
 
