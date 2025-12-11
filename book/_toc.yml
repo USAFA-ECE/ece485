@@ -9,8 +9,8 @@ parts:
       - file: syllabus
       - file: schedule
       - file: faq
-  - caption: Readings
+  - caption: Assignments (also see blackboard and gradescope)
     chapters:
-      - file: markdown
+      - file: skills_review
       - file: notebooks
       - file: markdown-notebooks
