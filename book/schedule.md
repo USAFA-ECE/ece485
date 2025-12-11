@@ -9,7 +9,12 @@ This schedule is subject to change as appropriate.
 | Lsn    | Topic                                               | Reading Assignment   | Homework: default due BOC        | Handouts                                                 |
 |:------:|-----------------------------------------------------|----------------------|--------------------------|---------------------------------------------------------|
 | 1   | Course Introduction                                    | 1.1 - 1.5            | Skills Review (due lsn 4) | <ul><li>Slides on Team's Site</li><li>[Syllabus](syllabus.md)</li></ul>              |      
-| 2   | Skill Review Day [Single-Cycle RISC-V architecture]                 | ECE281-34_36-Microarchitecture.pdf         | CPH1                                                                                          | ECE281-14-RV32I R and I.pdf; Registers; Branching; Microarchitecture |                                          |
+| 2   | Skill Review Day [Single-Cycle RISC-V architecture]    | [ECE281-34_36-Microarchitecture.pdf](skills_review/ECE281-34_36-Microarchitecture.pdf)         | CPH1  | 
+
+<ul><li> [ECE281-14-RV32I R and I.pdf](skills_review/ECE281-14-RV32I R and I.pdf) </li>
+<li>[ECE281-21-RV32I Registers.pdf](skills_review/ECE281-21-RV32I Registers.pdf) </li>
+<li>[ECE281-26-RV32I Branching.pdf](skills_review/ECE281-26-RV32I Branching.pdf) </li>
+<li>[ECE281-34_36-Microarchitecture.pdf](skills_review/ECE281-34_36-Microarchitecture.pdf) </li></ul>   |
 | 3   | Trends in Computer Technology                                       | 1.6 - 1.7                                  | CPH2                                                                                          |                                                         |                                          |
 | 4   | Price vs Performance                                                | 1.8 - 1.9                                  | Skills review                                                                                 |                                                         |                                          |
 | 5   | Performance, Metrics, Benchmarks, Amdahl's Law                      | 1.10-1.12; benchmarking articles in CPH4   | CPH4                                                                                          | article_1; article_2; article_3                        |                                          |
