@@ -12,5 +12,6 @@ parts:
   - caption: Assignments (also see blackboard and gradescope)
     chapters:
       - file: skills_review
+      - file: skills_review
       - file: notebooks
       - file: markdown-notebooks
