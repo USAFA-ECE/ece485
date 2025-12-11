@@ -1,10 +1,11 @@
 # ECE 485 Advanced Computer Architecture
 
 In addition to this website, this course will also use
-Blackboard for most homeworks (CPHs)
-Teams for messaging
-Gradescope for some assignments
-Vivado for VHDL programming
+
+- **Blackboard** for most homeworks (CPHs)
+- **Teams** for messaging
+- **Gradescope** for some assignments
+
 
 ```{tableofcontents}
 ```
