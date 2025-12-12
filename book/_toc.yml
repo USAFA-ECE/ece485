@@ -12,3 +12,4 @@ parts:
     chapters:
       - file: skillsreview
       - file: RISCV_Exercise/RISCV_assignment.md
+      
