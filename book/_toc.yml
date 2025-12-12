@@ -10,4 +10,4 @@ parts:
       - file: schedule
   - caption: Assignments (also see blackboard and gradescope)
     chapters:
-      - file: skills_review
+      - file: skillsreview
