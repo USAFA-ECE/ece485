@@ -3,7 +3,7 @@
 ```{note}
 This schedule is subject to change as appropriate.
 ```
-**Last Updated: 9 April 2024**
+**Last Updated: 12 December 2025**
 
 
 | Lsn    | Topic                                               | Reading Assignment   | Homework: default due BOC        | Handouts                                                 |
@@ -15,7 +15,7 @@ This schedule is subject to change as appropriate.
 | 5   | Performance, Metrics, Benchmarks, Amdahl's Law    | 1.10-1.12; benchmarking articles in CPH4   | CPH4     | <ul><li> [SingleNumber](benchmark/PerformanceSingleNumber.pdf) </li><li>[MeasuringPerformance](benchmark/MeasuringPerformance.pdf) </li><li>[BenchmarkDescriptions](benchmark/BenchmarkDescriptions.pdf)  </li></ul>  |           
 | 6   | Metrics and Benchmarks                     | 1.10-1.12; Quiz Today?                   | CPH5                  |                                   |
 | 7   | Instruction Set design, memory addressing, operations, operands     | A.1 - A.9    | CPH6                  |  [CaseforRISC](handouts/CaseforRISC.pdf)     |
-| 8   | CISC vs RISC Debate                                                 |                                             | CPH7                                                                                          | RISC vs CISC Debate                                    |                                          |
+| 8   | CISC vs RISC Debate                        |                                      | CPH7                   | [RISCvsCISCDebate](handouts/RISCvsCISCDebate.docx)                                    |     
 | 9   | Compiler Technology, RISC-V architecture                            | A.8 - A.9                                  | Sorry, no CPH8 this year                                                                      |                                                         |                                          |
 | 10  | Pipeline Introduction & Hazards                                     | C.1 - C.5, C.8                             | CPH9                                                                                          |                                                         |                                          |
 | 11  | Data Hazards, Control Hazards, Pipeline Implementation, ILP         | C.3 - C.5, C.8, 3.1                        | CPH10                                                                                         | Lesson 10 Worksheet                                    |                                          |
