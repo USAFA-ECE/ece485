@@ -8,7 +8,6 @@ parts:
     chapters:
       - file: syllabus
       - file: schedule
-      - file: faq
   - caption: Assignments (also see blackboard and gradescope)
     chapters:
       - file: notebooks
