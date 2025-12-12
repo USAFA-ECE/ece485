@@ -11,3 +11,4 @@ parts:
   - caption: Assignments (also see blackboard and gradescope)
     chapters:
       - file: skillsreview
+      - file: RISCV_Exercise/RISCV_assignment.md
