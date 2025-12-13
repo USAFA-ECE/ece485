@@ -7,7 +7,7 @@ This schedule is subject to change as appropriate.
 
 
 | Lsn    | Topic                                               | Reading Assignment   | Homework: default due BOC        | Handouts                                                 |
-|:------:|-----------------------------------------------------|----------------------|--------------------------|---------------------------------------------------------|
+|:------:|:----------------------------------------------:|----------------------|--------------------------|---------------------------------------------------------|
 | 1   | Course Introduction                                    | 1.1 - 1.5            | [Skills Review](skillsreview.md) (due lsn 4) | <ul><li>Slides on Team's Site</li><li>[Syllabus](syllabus.md)</li></ul>              |      
 | 2   | Skill Review Day [Single-Cycle RISC-V architecture]    | [Microarchitecture](skills_review/Microarchitecture.pdf)         | CPH1  | <ul><li> [R and I](skills_review/RandI.pdf) </li><li>[Registers](skills_review/Registers.pdf) </li><li>[Branching](skills_review/Branching.pdf) </li><li>[Microarchitecture](skills_review/Microarchitecture.pdf) </li></ul>   |
 | 3   | Trends in Computer Technology                                       | 1.6 - 1.7                                  | CPH2                                                                                          |                                                         |                                          |
