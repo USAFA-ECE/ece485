@@ -12,4 +12,8 @@ parts:
     chapters:
       - file: skillsreview
       - file: RISCV_Exercise/RISCV_assignment.md
+      - file: finalproject/finalprojectstage1.md
+      - file: finalproject/finalprojectstage2.md
+      - file: finalproject/finalprojectstage3.md
+      - file: finalproject/finalprojectstage4.md
       
