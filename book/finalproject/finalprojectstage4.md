@@ -1,3 +1,3 @@
 # Final Project Stage 4
 - This assignment will be submitted in Gradescope.
-- Here are some background files: <ul><li> [assignment](Final_Project_Assignment_Stage4.docx) </li><li>[block_diagram_template](Final_Project_Assignment_Stage4.pptx) </li></ul>
+- Here are some background files: <ul><li> [assignment](Final_Project_Assignment_Stage4.docx) </li><li>[block_diagram_template](RISCVstage4.pptx) </li></ul>
