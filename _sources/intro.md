@@ -3,7 +3,7 @@
 In addition to this website, this course will also use
 
 - **Blackboard** for most homeworks (CPHs)
-- **Teams** for messaging and lesson notetakers
+- **Teams** for messaging and lesson notetakers...
 - **Gradescope** for some assignments
 
 
