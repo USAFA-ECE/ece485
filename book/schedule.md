@@ -3,7 +3,7 @@
 ```{note}
 This schedule is subject to change as appropriate.
 ```
-**Last Updated: 12 December 2025**
+**Last Updated: 2 January 2026**
 
 
 | Lsn    | Topic                                               | Reading Assignment   | Homework: default due BOC        | Handouts             |
