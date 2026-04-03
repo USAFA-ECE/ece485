@@ -6,7 +6,7 @@ This schedule is subject to change as appropriate.
 **Last Updated: 2 January 2026**
 
 
-| Lsn    | Topic                                               | Reading Assignment   | Homework: default due BOC        | Handouts             |
+| Lsn    | Topic                                               | Reading Assignment   | Homework: default due 30 minutes before class        | Handouts             |
 |:------:|----------------------------------------------|----------------------|--------------------------|-------------------------------------|
 | 1   | Course Introduction                                    | 1.1 - 1.6            | [Skills Review](skillsreview.md) (due lsn 4) | <ul><li>lesson slides are on course TEAMs site</li><li>[Syllabus](syllabus.md)</li></ul>              |      
 | 2   | Skill Review Day [Single-Cycle RISC-V architecture]    | [Microarchitecture](skills_review/Microarchitecture.pdf)         | CPH1  | <ul><li>lesson slides are on course TEAMs site </li><li> [R and I](skills_review/RandI.pdf) </li><li>[Registers](skills_review/Registers.pdf) </li><li>[Branching](skills_review/Branching.pdf) </li><li>[Microarchitecture](skills_review/Microarchitecture.pdf) </li></ul>   |
