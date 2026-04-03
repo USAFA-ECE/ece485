@@ -50,5 +50,5 @@ This schedule is subject to change as appropriate.
 | 37  | GR#2                                                                |                          |                |                                                         |
 | 38  | Final Project Stage4                                               |                          |                |    [Stage4 Assignment](finalproject/finalprojectstage4.md)  |    
 | 39  | Final Project Stage4                                               |                          |                |    [Stage4 Assignment](finalproject/finalprojectstage4.md)    |
-| 40  | Final Project Quiz (worth 2 quiz grades)                            |                          | Final Project Stage 4, due lesson 40  |   [Stage4 Assignment](finalproject/finalprojectstage4.md)    |
+| 40  | Final Project Quiz (worth 2 quiz grades)                            |                          | Final Project Stage 4, due lesson 40, taps April 7  |   [Stage4 Assignment](finalproject/finalprojectstage4.md)    |
 
