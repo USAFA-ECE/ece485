@@ -104,11 +104,15 @@ The outline on the course blackboard site shows computer homework (CPH) and regu
 - CPH’s must be turned in on time (else a zero if late).  See section 12.
 - Policy for all other assignments:
 -- Late turn-in penalties are:
---- 10%	if by taps on the day it is due 
+<s>--- 10%	if by taps on the day it is due 
 --- 25%	for the first calendar day
 --- 50%	for the second calendar day
 --- 75%	for the third calendar day
---- 100%	for four or more calendar day (at this point you get a 0).
+--- 100%	for four or more calendar day (at this point you get a 0). </s>
+--- 10%	for the first calendar day
+--- another 20%	for the second calendar day
+--- another 30%	for the third calendar day
+--- another 40%	for four or more calendar day (at this point you get a 0).
 
 - If notified in advance, an instructor can make individual exceptions to this policy or possibly grant extensions.
 
