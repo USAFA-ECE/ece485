@@ -45,7 +45,7 @@ You must complete all minimum functionalities on labs in order to complete the c
 
 ## Textbooks
 **Required:**
-The required textbook for this is Computer Architecture: A Quantitative Approach, Sixth Edition, Morgan Kaufmann. The authors are Hennessy and Patterson.  
+The required textbook for this is Computer Architecture: A Quantitative Approach, Seventh Edition, Morgan Kaufmann. The authors are Hennessy and Patterson.  
 
 ## Extra Instruction (EI)
 
