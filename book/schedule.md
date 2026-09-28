@@ -6,8 +6,8 @@ This schedule is subject to change as appropriate.
 **Last Updated: 2 January 2026**
 
 | Lsn    | Topic                                               | Pre-Flight   | Graded Event             |
-|:------:|----------------------------------------------|----------------------|--------------------------|-------------------------------------|
-| 1   | Course Introduction                                    | <ul><li> read 1.1 - 1.6 </li></ul>[Skills Review](skillsreview.md) (due lsn 4) </li></ul>lesson slides are on course TEAMs site</li><li>[Syllabus](syllabus.md)</li></ul>              |      
+|:------:|----------------------------------------------|---------------------------------------------|------------------|
+| 1   | Course Introduction                                    | <ul><li> read 1.1 - 1.6 </li></ul>[Skills Review](skillsreview.md) (due lsn 4) </li></ul>lesson slides are on course TEAMs site</li><li>[Syllabus](syllabus.md)</li></ul>              |      |
 | 2   | Skill Review Day [Single-Cycle RISC-V architecture]    | [Microarchitecture](skills_review/Microarchitecture.pdf)         | CPH1  | <ul><li>lesson slides are on course TEAMs site </li><li> [R and I](skills_review/RandI.pdf) </li><li>[Registers](skills_review/Registers.pdf) </li><li>[Branching](skills_review/Branching.pdf) </li><li>[Microarchitecture](skills_review/Microarchitecture.pdf) </li></ul>   |
 | 3   | Trends in Computer Technology                                       | 1.6 - 1.9                                  | CPH2   |   <ul><li>lesson slides are on course TEAMs site </li></ul>    |
 | 4   | Price vs Performance                                                | 1.8 - 1.9        | [skills Review](skillsreview.md)  |   <ul><li>lesson slides are on course TEAMs site </li></ul>     |
