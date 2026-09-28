@@ -33,7 +33,7 @@ This schedule is subject to change as appropriate.
 | 23  | Memory Hierarchy Design: Cache Memory             | <ul><li> CPH21 due 0800 </li><li>read 2.1, B.1, B.2 </li><li>[L21_Worksheet](handouts/L21_Worksheet.docx)</li><li>lesson slides are on course TEAMs site  </li></ul>  |    |
 | 24  | Improving Cache Performance                       | <ul><li> CPH22 due 0800 </li><li>read 2.1, B.1, B.2, B.3, B.4 </li><li>lesson slides are on course TEAMs site </li></ul>  | QUIZ TODAY? |
 | 25  | Improving Cache Performance; Main Memory          | <ul><li> CPH25 due 0800 </li><li>read 2.2, B.3, B.4 </li><li>[L22_Worksheet](handouts/L22_Worksheet.docx) </li><li>lesson slides are on course TEAMs site </li></ul>  | |
-| 26  | Virtual Memory                                                      | 2.4                | CPH26                |  <ul><li>lesson slides are on course TEAMs site </li></ul>     |  
+| 26  | Virtual Memory                                    | <ul><li> CPH25 due 0800 </li><li>read 2.4  </li><li>lesson slides are on course TEAMs site </li></ul>     |  | 
 | 27  | Final Project Stage2                                               |                    |                      |    [Stage2 Assignment](finalproject/finalprojectstage2.md)   |
 | 28  | Final Project Stage2                                               |                    | Final Project Stage 2, due taps lesson M29   |  [Stage2 Assignment](finalproject/finalprojectstage2.md)   |
 | 29  | Storage Devices: RAID                                               | D.1 - D.3; skim D.4, D.7 | CPH27          |  <ul><li>lesson slides are on course TEAMs site </li><li>  [Online Appendice D](handouts/append_d.pdf) </li></ul>         |                           
