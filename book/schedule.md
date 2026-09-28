@@ -27,7 +27,7 @@ This schedule is subject to change as appropriate.
 | 18  | GR#1                                  |                      |   GR#1|
 | 19  | Final Project Stage1                              |   [Stage1 Assignment](finalproject/finalprojectstage1.md), due taps M21                   |                   |
 | 20  | Final Project Stage1                              |                    |      |
-| 21  | VLIW & Superscalar, SIMD?   | <ul><li> 4.3 </li><li> [MultiscalarProcessors](handouts/MultiscalarProcessors.pdf)  </li></ul> |     | <ul><li>lesson slides are on course TEAMs site </li></ul> |
+| 21  | VLIW & Superscalar, SIMD?   | <ul><li> [Stage1 Assignment](finalproject/finalprojectstage1.md), due taps M21 </li><li> read 4.3 </li><li> [MultiscalarProcessors](handouts/MultiscalarProcessors.pdf)  </li><li> lesson slides are on course TEAMs site </li></ul> |  |
 | skip | Data-Level Parallelism in Vector, SIMD, GPU Architectures          | <ul><li> 4.1, 4.2, 4.3, (skim 4.4) </li><li> [MorphologyVLIW_MAP1000](handouts/MorphologyVLIW_MAP1000.pdf)  </li></ul> |   
 | 22  | Memory Hierarchy Design: Cache Memory                               | 2.1, B.1, B.2       | CPH20   | <ul><li>lesson slides are on course TEAMs site </li><li>[L20_Worksheet](handouts/L20_Worksheet.docx) </li></ul>  |
 | 23  | Memory Hierarchy Design: Cache Memory                               | 2.1, B.1, B.2       | CPH21   | <ul><li>lesson slides are on course TEAMs site </li><li>[L21_Worksheet](handouts/L21_Worksheet.docx) </li></ul>  |    
