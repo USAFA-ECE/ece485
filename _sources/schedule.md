@@ -34,8 +34,8 @@ This schedule is subject to change as appropriate.
 | 24  | Improving Cache Performance                       | <ul><li> CPH22 due 0800 </li><li>read 2.1, B.1, B.2, B.3, B.4 </li><li>lesson slides are on course TEAMs site </li></ul>  | QUIZ TODAY? |
 | 25  | Improving Cache Performance; Main Memory          | <ul><li> CPH25 due 0800 </li><li>read 2.2, B.3, B.4 </li><li>[L22_Worksheet](handouts/L22_Worksheet.docx) </li><li>lesson slides are on course TEAMs site </li></ul>  | |
 | 26  | Virtual Memory                                    | <ul><li> CPH25 due 0800 </li><li>read 2.4  </li><li>lesson slides are on course TEAMs site </li></ul>     |  | 
-| 27  | Final Project Stage2                                               |                    |                      |    [Stage2 Assignment](finalproject/finalprojectstage2.md)   |
-| 28  | Final Project Stage2                                               |                    | Final Project Stage 2, due taps lesson M29   |  [Stage2 Assignment](finalproject/finalprojectstage2.md)   |
+| 27  | Final Project Stage2                              | [Stage2 Assignment](finalproject/finalprojectstage2.md) due taps lesson M29    |        |
+| 28  | Final Project Stage2                              |    |     |
 | 29  | Storage Devices: RAID                                               | D.1 - D.3; skim D.4, D.7 | CPH27          |  <ul><li>lesson slides are on course TEAMs site </li><li>  [Online Appendice D](handouts/append_d.pdf) </li></ul>         |                           
 | 30  | I/O Interfacing & Performance, Interconnection Networks             | F.1, F.2; skim F.5, F.6  | CPH29          |  <ul><li>lesson slides are on course TEAMs site </li><li>  [Online Appendice F](handouts/append_f.pdf)  </li></ul>        |     
 | 31  | LAN Topologies, Routers/Gateways, Flynn's Taxonomy; Memory Arch     | F.1, F.2; skim F.5, F.6  | CPH30          | <ul><li>lesson slides are on course TEAMs site </li><li>[L29 Worksheet](handouts/L29_Worksheet.docx) </li></ul>           |   
