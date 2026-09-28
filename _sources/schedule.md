@@ -5,10 +5,9 @@ This schedule is subject to change as appropriate.
 ```
 **Last Updated: 2 January 2026**
 
-
-| Lsn    | Topic                                               | Reading Assignment   | Homework: default due 30 minutes before class        | Handouts             |
+| Lsn    | Topic                                               | Pre-Flight   | Graded Event             |
 |:------:|----------------------------------------------|----------------------|--------------------------|-------------------------------------|
-| 1   | Course Introduction                                    | 1.1 - 1.6            | [Skills Review](skillsreview.md) (due lsn 4) | <ul><li>lesson slides are on course TEAMs site</li><li>[Syllabus](syllabus.md)</li></ul>              |      
+| 1   | Course Introduction                                    | <ul><li> read 1.1 - 1.6 </li></ul>[Skills Review](skillsreview.md) (due lsn 4) </li></ul>lesson slides are on course TEAMs site</li><li>[Syllabus](syllabus.md)</li></ul>              |      
 | 2   | Skill Review Day [Single-Cycle RISC-V architecture]    | [Microarchitecture](skills_review/Microarchitecture.pdf)         | CPH1  | <ul><li>lesson slides are on course TEAMs site </li><li> [R and I](skills_review/RandI.pdf) </li><li>[Registers](skills_review/Registers.pdf) </li><li>[Branching](skills_review/Branching.pdf) </li><li>[Microarchitecture](skills_review/Microarchitecture.pdf) </li></ul>   |
 | 3   | Trends in Computer Technology                                       | 1.6 - 1.9                                  | CPH2   |   <ul><li>lesson slides are on course TEAMs site </li></ul>    |
 | 4   | Price vs Performance                                                | 1.8 - 1.9        | [skills Review](skillsreview.md)  |   <ul><li>lesson slides are on course TEAMs site </li></ul>     |
@@ -36,7 +35,7 @@ This schedule is subject to change as appropriate.
 | 25  | Improving Cache Performance; Main Memory                            | 2.2, B.3, B.4      | CPH25    | <ul><li>post lesson slides </li><li>[L22_Worksheet](handouts/L22_Worksheet.docx) </li></ul>  |
 | 26  | Virtual Memory                                                      | 2.4                | CPH26                |  <ul><li>lesson slides are on course TEAMs site </li></ul>     |  
 | 27  | Final Project Stage2                                               |                    |                      |    [Stage2 Assignment](finalproject/finalprojectstage2.md)   |
-| 28  | Final Project Stage2                                               |                    | Final Project Stage 1, due taps lesson M29   |  [Stage2 Assignment](finalproject/finalprojectstage2.md)   |
+| 28  | Final Project Stage2                                               |                    | Final Project Stage 2, due taps lesson M29   |  [Stage2 Assignment](finalproject/finalprojectstage2.md)   |
 | 29  | Storage Devices: RAID                                               | D.1 - D.3; skim D.4, D.7 | CPH27          |  <ul><li>lesson slides are on course TEAMs site </li><li>  [Online Appendice D](handouts/append_d.pdf) </li></ul>         |                           
 | 30  | I/O Interfacing & Performance, Interconnection Networks             | F.1, F.2; skim F.5, F.6  | CPH29          |  <ul><li>lesson slides are on course TEAMs site </li><li>  [Online Appendice F](handouts/append_f.pdf)  </li></ul>        |     
 | 31  | LAN Topologies, Routers/Gateways, Flynn's Taxonomy; Memory Arch     | F.1, F.2; skim F.5, F.6  | CPH30          | <ul><li>lesson slides are on course TEAMs site </li><li>[L29 Worksheet](handouts/L29_Worksheet.docx) </li></ul>           |   
