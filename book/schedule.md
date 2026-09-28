@@ -45,7 +45,7 @@ This schedule is subject to change as appropriate.
 | 34  | Final Project Stage3                               | [Stage3 Assignment](finalproject/finalprojectstage3.md), due taps lesson M36    |   |             
 | 35  | Final Project Stage3                                |       |        |
 | 36  | Final Project Stage3                                |                          |   |        
-| 37  | Distributed Memory Coherence                                        | 5.4 (maybe 5.5, 5.6)     | CPH32          | <ul><li>lesson slides are on course TEAMs site </li><li>[L32 Worksheet](handouts/L32_Worksheet.docx)  </li></ul>          |  
+| 37  | Distributed Memory Coherence                        | <ul><li> CPH32 due 0800 </li><li>read 5.4 </li><li>skim 5.5, 5.6 </li><li>[L32 Worksheet](handouts/L32_Worksheet.docx) </li><li>lesson slides are on course TEAMs site </li></ul>          |   |
 | skip | <s>Clusters, Example: Google Cluster, LAN Example   </s>                  | 6.5 - 6.8; L29 Google Arch.pdf  |         | [GoogleArchitecture](handouts/GoogleArchitecture.pdf)   |
 | 38  | GR#2                                                                |                          |                |                                                         |
 | 39  | Final Project Stage4                                               |                          |                |    [Stage4 Assignment](finalproject/finalprojectstage4.md)  |    
