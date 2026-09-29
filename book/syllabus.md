@@ -60,20 +60,67 @@ The required textbook for this is Computer Architecture: A Quantitative Approach
 | **Final Project** | The Final Project will be done in 4 stages, implementing a pipelined processor in VHDL. |
 
 
-## Course Prerequisites
-- Microcomputer programming  [ECE 382]
-- Assembly language programming, instruction sets, interrupts, I/O timing, parallel communications/busses, computer memory. [ECE 382]
-- Statistics  [Math 300, 356, or 377]
+## Course Policies
+|  |  | 
+| :--- | :--- | 
+| **Attendance** | Be in class on time or notify your instructor **via e-mail with copy to Sq Commander/AMT** of your whereabouts/reason for absence (medical, TDY, etc.). Provide SCA # if appropriate but **be sure to indicate where you will be**. Instructors cannot excuse cadets from class and must be accountable for all absences <br><br>  If you are approved for Sq Commander bedrest, notify instructor immediately and copy your Sq Commander/AMT on email or Teams message. |
+\Row{Academic Integrity}{See the Cadet Wing Honor Code for details. | 
+
+
+2.
+
+Expect and require the highest standards of military courtesy, professionalism, and academic rigor.}
+\Row{Late Work}{CPH’s must be turned in on time (else a zero if late).  
+
+For all other assignments, the late turn-in penalties are:
+
+10\%  for the first calendar day.
+
+30\%  for the second calendar day.
+
+60\%  for the third calendar day.
+
+100\%  for four or more calendar day (at this point you earn a 0).
+
+If notified in advance, an instructor can make individual exceptions to this policy or possibly grant extensions.
+
+Regarding extensions on the final project: The schedule for the due dates for the final project is published lesson 1.  Do not expect any extensions.  For example, if going on a trip the week a stage is due, you are expected to turn it in BEFORE you leave… schedule your time appropriately.
+
+}
+\Row{EI}{The time to seek help is when you have difficulty understanding the material and you have attempted to work the assigned problems.  I will be glad to schedule EI at mutually convenient times but be sure to call or email if you must cancel.  As always, if you have a burning question, or find yourself in a general state of confusion, feel free to try and find me for an answer.}
+\Row{Collaboration Policy}{For CPHs you are allowed to work with other students, use your textbook and other instructor-provided course materials, but not allowed to use Generative AI like ChatGPT or search engines, like google.
+
+For the skills review, you are allowed to work with other students, use your 281 textbook and other instructor-provided course materials.
+
+For the RISC versus CISC debate, you are allowed to collaborate with students on your own team, use your textbook, and other instructor-provided course materials.
+
+For the RISC-V exercise, the only collaboration allowed with classmates is for general questions, such as how the 9 assembly instructions work and relate to the block diagrams of figures C.18, C.19 and C.25. All the work filling out the spreadsheets and answering the above questions must be your own work.  Do not look at each other’s spreadsheets or answers to the above questions.  
+
+For the final project, the only collaboration allowed with classmates is for general questions, such has how to implement VHDL code, like “how to make a process statement to implement a register”, not for specific coding in this assignment, or for general concepts regarding the blocks in the block diagram.  All coding must be your own work.  Do not look at each other’s code.  You are not allowed to have another student look at your code to help with debugging, unless given specific authorization from your instructor.
+
+Regardless of the assignment, all collaboration must be clearly documented; copying another person’s work, with or without documentation, will result in NO academic credit. 
+}
+\Row{Use of AI Tools}{For CPHs you are not allowed to use Generative AI like ChatGPT or search engines, like google (GenAI level 0: No use of GenAI)
+
+For the skills review, you are allowed to Generative AI like ChatGPT or search engines, like google at GenAI level 1: Organizational / Explanatory use of GenAI.
+
+For the RISC versus CISC debate, you are allowed to Generative AI like ChatGPT or search engines, like google at GenAI level 5: Unrestricted, attributed use of GenAI.
+
+For the RISC-V exercise, regarding the use of GenAI or search engines is GenAI level 1: Organizational / Explanatory use of GenAI. For example, you can prompt GenAI on how the 9 assembly instructions work and relate to the block diagrams of figures C.18, C.19 and C.25; however, all the work filling out the spreadsheets and answering the above questions must be your own work.  Do not ask GenAI to produce specific answers to the spreadsheets or the above questions. 
+
+For the final project, the use of generative AI (e.g., ChatGPT) or search engines is “level 2: Use of GenAI for brainstorming or idea generation.” For example, you can prompt GenAI on how to implement basic hardware in VHDL, such as “how to you implement a 32-bit register in VHDL?” “How to you implement a multiplexer using the when statement?” or ask basic questions about the RISC-V multicycle architecture, like “why is the ALU controller separate from the Control Unit in RISC-V?”; however, any coding must be your own work.  Do not ask GenAI to produce specific code for this assignment, like “Given this VHDL code for the ALU, add the SUBI function.”
+
+Regardless of the assignment, any use of GenAI or internet searches must be clearly documented, including all prompts used. Failure to follow this policy will result in NO academic credit. 
+
+One warning about GenAI and RISC-V: besides the common problem of GenAI hallucinations, there are different versions of RISC-V, different from this assignment, so GenAI could lead you astray.
+}
+
+
+
 
 
 ## Course Schedule
 The course schedule is [here](schedule.md)
-
-
-
-
-You must complete all minimum functionalities on labs in order to complete the course.  Even if an assignment is so late that no credit will be received, the assignment must be completed to the satisfaction of the instructor to prevent a grade of “Incomplete.”
-
 
 ## Extra Instruction (EI)
 
