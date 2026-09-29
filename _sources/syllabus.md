@@ -70,81 +70,26 @@ The required textbook for this is Computer Architecture: A Quantitative Approach
 | **Collaboration Policy** | For CPHs you are allowed to work with other students, use your textbook and other instructor-provided course materials, but not allowed to use Generative AI like ChatGPT or search engines, like google. <br><br> For the skills review, you are allowed to work with other students, use your textbook and other instructor-provided course materials. <br><br> For the RISC versus CISC debate, you are allowed to collaborate with students on your own team, use your textbook, use Google for searching for sources, and other instructor-provided course materials. <br><br> For the RISC-V exercise, the only collaboration allowed with classmates is for general questions, such as how the 9 assembly instructions work and how they relate to the block diagrams of figures C.18, C.19 and C.25. All the work filling out the spreadsheets and answering the above questions must be your own work.  Do not look at each other’s spreadsheets or answers to the above questions. <br><br> For the final project, the only collaboration allowed with classmates is for general questions, such has how to implement VHDL code, like “how to make a process statement to implement a register”, not for specific coding in this assignment, or for general concepts regarding the blocks in the block diagram.  All coding must be your own work.  Do not look at each other’s code.  You are not allowed to have another student look at your code to help with debugging, unless given specific authorization from your instructor. <br><br> Regardless of the assignment, all collaboration must be clearly documented; copying another person’s work, with or without documentation, will result in NO academic credit. |
 | **Use of AI Tools** | For CPHs you are not allowed to use Generative AI like ChatGPT or search engines, like google (GenAI level 0: No use of GenAI) <br><br> For the skills review, you are allowed to Generative AI like ChatGPT or search engines, like google at GenAI level 1: Organizational / Explanatory use of GenAI. <br><br> For the RISC versus CISC debate, you are allowed to Generative AI like ChatGPT or search engines, like google at GenAI level 5: Unrestricted, attributed use of GenAI. <br><br> For the RISC-V exercise, the use of GenAI or search engines is GenAI level 1: Organizational / Explanatory use of GenAI. For example, you can prompt GenAI on how the 9 assembly instructions work and relate to the block diagrams of figures C.18, C.19 and C.25; however, all the work filling out the spreadsheets and answering the above questions must be your own work.  Do not ask GenAI to produce specific answers to the spreadsheets or the above questions. <br><br> For the final project, the use of generative AI (e.g., ChatGPT) or search engines is “level 2: Use of GenAI for brainstorming or idea generation.” For example, you can prompt GenAI on how to implement basic hardware in VHDL, such as “how to you implement a 32-bit register in VHDL?” “How to you implement a multiplexer using the when statement?” or ask basic questions about the RISC-V multicycle architecture, like “why is the ALU controller separate from the Control Unit in RISC-V?”; however, any coding must be your own work.  Do not ask GenAI to produce specific code for this assignment, like “Given this VHDL code for the ALU, add the SUBI function." <br><br> Regardless of the assignment, any use of GenAI or internet searches must be clearly documented, including all prompts used. Failure to follow this policy will result in NO academic credit. <br><br> One warning about GenAI and RISC-V: besides the common problem of GenAI hallucinations, there are different versions of RISC-V, different from this assignment, so GenAI could lead you astray. |
 
+## Additional Information
 
+**Class website**: https://usafa-ece.github.io/ece485/intro.html  The class website mainly has the syllabus, schedule and some information about the assignments. The handouts referred to in the schedule will be posted on the class website.
+ 
+**Class Team's channel**: We will mainly use the Team's channel for messaging and for posting the class lesson slides. 
+ 
+**Class Blackboard site**: The blackboard site for ECE 485 is 202730-G-DFEC-ECE485-2MA: ADVANCED COMPUTER ARCHITECTURE, 
 
+        This has the assignments like online homework/preflights called CPHs.
+        
+                  CPH1 is due lesson 2
+                  
+                  Skills Review is due lesson 4
+                  
+**GradeScope**: We will also use GradeScope for some assignments, like the skills review and the final project.  
 
+  https://www.gradescope.com/courses/1196106
+ 
 
+**book EI**: To book EI or a meeting with your instructor, he will give out a booking link.
 
 ## Course Schedule
 The course schedule is [here](schedule.md)
-
-## Extra Instruction (EI)
-
-The time to seek help is when you have difficulty understanding the material and you have attempted the readings and to work the assigned problems.  I will be glad to schedule EI at mutually convenient times but be sure to call or email if you must cancel.  As always, if you have a burning question, or find yourself in a general state of confusion, feel free to try and find me for an answer. 
-
-## CAS Policy
-
-If at all possible, absences must be coordinated ahead of time.  Be sure to check your
-SCA to see if instructor “Notification” or “Permission” is required.  There is a difference!
-If it’s “permission” you need, be sure to ask as soon as you know you need it.  Email or Teams
-is the preferred method of communication for CAS.  Be sure to include the lesson
-number along with the reason for your absence.  
-
-## Collaboration Policy 
-
-- For CPHs you are allowed to work with other students, use your textbook and other instructor-provided course materials, but not allowed to use Generative AI like ChatGPT or search engines, like google.
-
-- For the skills review, you are allowed to work with other students, use your 281 textbook and other instructor-provided course materials.
-
-- For the RISC versus CISC debate, you are allowed to collaborate with students on your own team, use your textbook, and other instructor-provided course materials.
-
-- For the RISC-V exercise, the only collaboration allowed with classmates is for general questions, such as how the 9 assembly instructions work and relate to the block diagrams of figures C.18, C.19 and C.25. All the work filling out the spreadsheets and answering the above questions must be your own work.  Do not look at each other’s spreadsheets or answers to the above questions.  
-
-- For the final project, the only collaboration allowed with classmates is for general questions, such has how to implement VHDL code, like “how to make a process statement to implement a register”, not for specific coding in this assignment, or for general concepts regarding the blocks in the block diagram.  All coding must be your own work.  Do not look at each other’s code.  You are not allowed to have another student look at your code to help with debugging, unless given specific authorization from your instructor.
-
-- Regardless of the assignment, all collaboration must be clearly documented; copying another person’s work, with or without documentation, will result in NO academic credit. 
-
-## GenAI Policy 
-
-- For CPHs you are not allowed to use Generative AI like ChatGPT or search engines, like google (GenAI level 0: No use of GenAI)
-
-- For the skills review, you are allowed to Generative AI like ChatGPT or search engines, like google at GenAI level 1: Organizational / Explanatory use of GenAI.
-
-- For the RISC versus CISC debate, you are allowed to Generative AI like ChatGPT or search engines, like google at GenAI level 5: Unrestricted, attributed use of GenAI.
-
-- For the RISC-V exercise, regarding the use of GenAI or search engines is GenAI level 1: Organizational / Explanatory use of GenAI. For example, you can prompt GenAI on how the 9 assembly instructions work and relate to the block diagrams of figures C.18, C.19 and C.25; however, all the work filling out the spreadsheets and answering the above questions must be your own work.  Do not ask GenAI to produce specific answers to the spreadsheets or the above questions. 
-
-- For the final project, the use of generative AI (e.g., ChatGPT) or search engines is “level 2: Use of GenAI for brainstorming or idea generation.” For example, you can prompt GenAI on how to implement basic hardware in VHDL, such as “how to you implement a 32-bit register in VHDL?” “How to you implement a multiplexer using the when statement?” or ask basic questions about the RISC-V multicycle architecture, like “why is the ALU controller separate from the Control Unit in RISC-V?”; however, any coding must be your own work.  Do not ask GenAI to produce specific code for this assignment, like “Given this VHDL code for the ALU, add the SUBI function.”
-
-- Regardless of the assignment, any use of GenAI or internet searches must be clearly documented, including all prompts used. Failure to follow this policy will result in NO academic credit. 
-
-- One warning about GenAI and RISC-V: besides the common problem of GenAI hallucinations, there are different versions of RISC-V, different from this assignment, so GenAI could lead you astray.
-
-
-
-## Graded Evaluations  
-- These include the quizzes and the GRs.  Primary sources for questions include the textbook, information presented in class, handouts, and homework problems.
-
-- You must notify your instructor one lesson in advance to schedule a make-up if you anticipate missing any scheduled graded evaluation or assigment turn-in.  Schedule makeup exams or extension beforehand! 
-
-
-## Homework and Quizzes
-The outline on the course blackboard site shows computer homework (CPH) and regular homework problems for each lesson.  Your CPH/homework is due by the beginning of class of the lesson noted in the column “Due Today.”  As always, you are responsible for all readings, whether or not they are covered in class.  Quizzes will be given at the discretion of the individual instructor.  Quizzes may or may not be announced.
-
-## Late Work Policy
-- CPH’s must be turned in on time (else a zero if late).  See section 12.
-- Policy for all other assignments:
--- Late turn-in penalties are:
---- <s>10%	if by taps on the day it is due </s>
---- <s>25%	for the first calendar day </s>
---- <s>50%	for the second calendar day </s>
---- <s>75%	for the third calendar day </s>
---- <s>100%	for four or more calendar day (at this point you get a 0). </s>
---- 10%	for the first calendar day
---- another 20%	for the second calendar day
---- another 30%	for the third calendar day
---- another 40%	for four or more calendar day (at this point you get a 0).
-
-- If notified in advance, an instructor can make individual exceptions to this policy or possibly grant extensions.
-
-- Regarding extensions on the final project: The schedule for the due dates for the final project is published lesson 1.  Do not expect any extensions.  For example, if going on a trip the week a stage is due, you are expected to turn it in BEFORE you leave… schedule your time appropriately.
