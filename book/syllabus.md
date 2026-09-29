@@ -46,11 +46,7 @@ The required textbook for this is Computer Architecture: A Quantitative Approach
 
 |    A   |   A-   |   B+   |    B   |   B-   |   C+   |    C   |   C-   |    D   |    F   |
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-| 93 <= A <= 100  | 87 <= B+ < 90  | 77 <= C+ < 80   | 60 <= D < 70  | 
-| 90 <= A- < 93   | 83 <= B < 87   | 73 <= C < 77    | 0 <= F < 60   | 
-|                 | 80 <= B- < 83  | 70 <= C- < 73   |               |
-
-
+| 93 - 100  |  90 - 93  | 87 - 90  |  83 - 87  | 80 - 83 | 77 - 80 | 73 - 77 | 70 - 73 | 60 - 70  | 0 - 60 |
 
 ## Course Prerequisites
 - Microcomputer programming  [ECE 382]
