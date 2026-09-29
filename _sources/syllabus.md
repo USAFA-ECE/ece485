@@ -13,13 +13,25 @@
 | **Prerequisites** | ECE 382 and either Math 220, 300, 356, or 377 |
 | **Co-requisites** | None |
 
-## Course Goals
-The goal of this course is for cadets to develop the ability to analyze and compare a variety of computer architectures.
+## Course Description
+This final course in the Computer Systems Area of Study quantitatively examines trade-offs in the design of high-performance computer systems. Topics include price/performance, instruction sets, hardwired control versus microprogramming, memory hierarchy, cache memory, virtual memory, pipelining, reduced instruction set computers (RISC), input/output, and parallel processing. Final project will examine state-of-the-art processors and computers. Lab.  - 3 credits spring
 
 ## Course Objectives
 Cadets shall be able to:
 - Explain fundamental concepts and analyze design trade-offs associated with high performance computers and computer networks.
 - Quantitatively analyze and compare the performance of various computer architectures.
+
+## Required Materials
+**Required:**
+The required textbook for this is Computer Architecture: A Quantitative Approach, Seventh Edition, Morgan Kaufmann. The authors are Hennessy and Patterson.  
+
+| Title / Description | Author(s) | Edition / Notes |
+| :--- | :--- | :--- |
+| **Computer Architecture: A Quantitative Approach** | Hennessy & Patterson | 6th Edition |
+
+
+
+
 
 ## Course Prerequisites
 - Microcomputer programming  [ECE 382]
@@ -56,9 +68,6 @@ Electrical and Computer Engineering courses are contract graded using the follow
 
 You must complete all minimum functionalities on labs in order to complete the course.  Even if an assignment is so late that no credit will be received, the assignment must be completed to the satisfaction of the instructor to prevent a grade of “Incomplete.”
 
-## Textbooks
-**Required:**
-The required textbook for this is Computer Architecture: A Quantitative Approach, Seventh Edition, Morgan Kaufmann. The authors are Hennessy and Patterson.  
 
 ## Extra Instruction (EI)
 
