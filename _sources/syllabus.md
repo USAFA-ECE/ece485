@@ -63,28 +63,16 @@ The required textbook for this is Computer Architecture: A Quantitative Approach
 ## Course Policies
 |  |  | 
 | :--- | :--- | 
-| **Attendance** | Be in class on time or notify your instructor **via e-mail with copy to Sq Commander/AMT** of your whereabouts/reason for absence (medical, TDY, etc.). Provide SCA # if appropriate but **be sure to indicate where you will be**. Instructors cannot excuse cadets from class and must be accountable for all absences <br><br>  If you are approved for Sq Commander bedrest, notify instructor immediately and copy your Sq Commander/AMT on email or Teams message. |
-\Row{Academic Integrity}{See the Cadet Wing Honor Code for details. | 
-
-
-2.
-
-Expect and require the highest standards of military courtesy, professionalism, and academic rigor.}
-\Row{Late Work}{CPH’s must be turned in on time (else a zero if late).  
-
-For all other assignments, the late turn-in penalties are:
-
-10\%  for the first calendar day.
-
-30\%  for the second calendar day.
-
-60\%  for the third calendar day.
-
-100\%  for four or more calendar day (at this point you earn a 0).
-
-If notified in advance, an instructor can make individual exceptions to this policy or possibly grant extensions.
-
-Regarding extensions on the final project: The schedule for the due dates for the final project is published lesson 1.  Do not expect any extensions.  For example, if going on a trip the week a stage is due, you are expected to turn it in BEFORE you leave… schedule your time appropriately.
+| **Attendance** | Be in class on time or notify your instructor **via e-mail with copy to Sq Commander/AMT** of your whereabouts/reason for absence (medical, TDY, etc.). Provide SCA # if appropriate but **be sure to indicate where you will be**. Instructors cannot excuse cadets from class and must be accountable for all absences <br><br> If you are approved for Sq Commander bedrest, notify instructor immediately and copy your Sq Commander/AMT on email or Teams message. |
+| **Academic Integrity**| See the Cadet Wing Honor Code for details. <br><br> Expect and require the highest standards of military courtesy, professionalism, and academic rigor. | 
+| **Late Work** | CPH’s must be turned in on time (else a zero if late). <br><br> 
+For all other assignments, the late turn-in penalties are: <br><br>
+10\%  for the first calendar day. <br><br>
+30\%  for the second calendar day. <br><br>
+60\%  for the third calendar day. <br><br>
+100\%  for four or more calendar day (at this point you earn a 0). <br><br>
+If notified in advance, an instructor can make individual exceptions to this policy or possibly grant extensions. <br><br>
+Regarding extensions on the final project stages: The schedule for the due dates for the final project is published lesson 1.  Do not expect any extensions.  For example, if going on a trip the week a stage is due, you are expected to turn it in BEFORE you leave… schedule your time appropriately. |
 
 }
 \Row{EI}{The time to seek help is when you have difficulty understanding the material and you have attempted to work the assigned problems.  I will be glad to schedule EI at mutually convenient times but be sure to call or email if you must cancel.  As always, if you have a burning question, or find yourself in a general state of confusion, feel free to try and find me for an answer.}
