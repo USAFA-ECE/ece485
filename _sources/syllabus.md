@@ -31,7 +31,6 @@ The required textbook for this is Computer Architecture: A Quantitative Approach
 
 ## Grading
 
-The **Grade distribution** for this course is shown below.
 ### Assignments/Course Assessments
 
 |  Component   |       Prog      |                   |     Final        |
@@ -42,6 +41,14 @@ The **Grade distribution** for this course is shown below.
 |                           |             |                        |             |
 |     Total                 |     100%    |     Total              |     100%    |
 
+
+### Grading Scale
+
+|    A   |   A-   |   B+   |    B   |   B-   |   C+   |    C   |   C-   |    D   |    F   |
+|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+| 93 <= A <= 100  | 87 <= B+ < 90  | 77 <= C+ < 80   | 60 <= D < 70  | 
+| 90 <= A- < 93   | 83 <= B < 87   | 73 <= C < 77    | 0 <= F < 60   | 
+|                 | 80 <= B- < 83  | 70 <= C- < 73   |               |
 
 
 
@@ -55,16 +62,6 @@ The **Grade distribution** for this course is shown below.
 The course schedule is [here](schedule.md)
 
 
-<br>
-
-Electrical and Computer Engineering courses are contract graded using the following 100 point scale.
-<br>
-
-|     Grade       |     Grade      |     Grade       |     Grade     |   
-|:---------------:|:--------------:|:---------------:|:-------------:|
-| 93 <= A <= 100  | 87 <= B+ < 90  | 77 <= C+ < 80   | 60 <= D < 70  | 
-| 90 <= A- < 93   | 83 <= B < 87   | 73 <= C < 77    | 0 <= F < 60   | 
-|                 | 80 <= B- < 83  | 70 <= C- < 73   |               |
 
 
 You must complete all minimum functionalities on labs in order to complete the course.  Even if an assignment is so late that no credit will be received, the assignment must be completed to the satisfaction of the instructor to prevent a grade of “Incomplete.”
