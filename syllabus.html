@@ -360,7 +360,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -376,6 +378,26 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-goals">Course Goals</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-objectives">Course Objectives</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-prerequisites">Course Prerequisites</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-schedule">Course Schedule</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#grade-distribution-and-policy">Grade Distribution and Policy</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#textbooks">Textbooks</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#extra-instruction-ei">Extra Instruction (EI)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#cas-policy">CAS Policy</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#collaboration-policy">Collaboration Policy</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#genai-policy">GenAI Policy</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#graded-evaluations">Graded Evaluations</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#homework-and-quizzes">Homework and Quizzes</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#late-work-policy">Late Work Policy</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -387,7 +409,173 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="syllabus">
 <h1>🚩 Syllabus<a class="headerlink" href="#syllabus" title="Permalink to this heading">#</a></h1>
-<p><a class="reference download internal" download="" href="_downloads/fe74764a29674edf26fde7fc5259de83/ECE_485_syllabus.pdf"><span class="xref download myst">Syllabus</span></a></p>
+<p><a class="reference download internal" download="" href="_downloads/fe74764a29674edf26fde7fc5259de83/ECE_485_syllabus.pdf"><span class="xref download myst">Syllabus</span></a> &lt;– new format version</p>
+<section id="course-goals">
+<h2>Course Goals<a class="headerlink" href="#course-goals" title="Permalink to this heading">#</a></h2>
+<p>The goal of this course is for cadets to develop the ability to analyze and compare a variety of computer architectures.</p>
+</section>
+<section id="course-objectives">
+<h2>Course Objectives<a class="headerlink" href="#course-objectives" title="Permalink to this heading">#</a></h2>
+<p>Cadets shall be able to:</p>
+<ul class="simple">
+<li><p>Explain fundamental concepts and analyze design trade-offs associated with high performance computers and computer networks.</p></li>
+<li><p>Quantitatively analyze and compare the performance of various computer architectures.</p></li>
+</ul>
+</section>
+<section id="course-prerequisites">
+<h2>Course Prerequisites<a class="headerlink" href="#course-prerequisites" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Microcomputer programming  [ECE 382]</p></li>
+<li><p>Assembly language programming, instruction sets, interrupts, I/O timing, parallel communications/busses, computer memory. [ECE 382]</p></li>
+<li><p>Statistics  [Math 300, 356, or 377]</p></li>
+</ul>
+</section>
+<section id="course-schedule">
+<h2>Course Schedule<a class="headerlink" href="#course-schedule" title="Permalink to this heading">#</a></h2>
+<p>The course schedule is <a class="reference internal" href="schedule.html"><span class="doc std std-doc">here</span></a></p>
+</section>
+<section id="grade-distribution-and-policy">
+<h2>Grade Distribution and Policy<a class="headerlink" href="#grade-distribution-and-policy" title="Permalink to this heading">#</a></h2>
+<p>The <strong>Grade distribution</strong> for this course is shown below.</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Prog</p></th>
+<th class="head"><p></p></th>
+<th class="head"><p>Final</p></th>
+<th class="head"><p></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>GRs (1)</p></td>
+<td><p>40%</p></td>
+<td><p>GRs (2)</p></td>
+<td><p>40%</p></td>
+</tr>
+<tr class="row-odd"><td><p>Skills Review</p></td>
+<td><p>10%</p></td>
+<td><p>HW/Quizzes/CPH/lab</p></td>
+<td><p>25%</p></td>
+</tr>
+<tr class="row-even"><td><p>HW/Quizzes/CPH/lab</p></td>
+<td><p>50%</p></td>
+<td><p>Final Project</p></td>
+<td><p>35%</p></td>
+</tr>
+<tr class="row-odd"><td><p></p></td>
+<td><p></p></td>
+<td><p></p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>Total</p></td>
+<td><p>100%</p></td>
+<td><p>Total</p></td>
+<td><p>100%</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<br>
+<p>Electrical and Computer Engineering courses are contract graded using the following 100 point scale.
+<br></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head text-center"><p>Grade</p></th>
+<th class="head text-center"><p>Grade</p></th>
+<th class="head text-center"><p>Grade</p></th>
+<th class="head text-center"><p>Grade</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td class="text-center"><p>93 &lt;= A &lt;= 100</p></td>
+<td class="text-center"><p>87 &lt;= B+ &lt; 90</p></td>
+<td class="text-center"><p>77 &lt;= C+ &lt; 80</p></td>
+<td class="text-center"><p>60 &lt;= D &lt; 70</p></td>
+</tr>
+<tr class="row-odd"><td class="text-center"><p>90 &lt;= A- &lt; 93</p></td>
+<td class="text-center"><p>83 &lt;= B &lt; 87</p></td>
+<td class="text-center"><p>73 &lt;= C &lt; 77</p></td>
+<td class="text-center"><p>0 &lt;= F &lt; 60</p></td>
+</tr>
+<tr class="row-even"><td class="text-center"><p></p></td>
+<td class="text-center"><p>80 &lt;= B- &lt; 83</p></td>
+<td class="text-center"><p>70 &lt;= C- &lt; 73</p></td>
+<td class="text-center"><p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>You must complete all minimum functionalities on labs in order to complete the course.  Even if an assignment is so late that no credit will be received, the assignment must be completed to the satisfaction of the instructor to prevent a grade of “Incomplete.”</p>
+</section>
+<section id="textbooks">
+<h2>Textbooks<a class="headerlink" href="#textbooks" title="Permalink to this heading">#</a></h2>
+<p><strong>Required:</strong>
+The required textbook for this is Computer Architecture: A Quantitative Approach, Seventh Edition, Morgan Kaufmann. The authors are Hennessy and Patterson.</p>
+</section>
+<section id="extra-instruction-ei">
+<h2>Extra Instruction (EI)<a class="headerlink" href="#extra-instruction-ei" title="Permalink to this heading">#</a></h2>
+<p>The time to seek help is when you have difficulty understanding the material and you have attempted the readings and to work the assigned problems.  I will be glad to schedule EI at mutually convenient times but be sure to call or email if you must cancel.  As always, if you have a burning question, or find yourself in a general state of confusion, feel free to try and find me for an answer.</p>
+</section>
+<section id="cas-policy">
+<h2>CAS Policy<a class="headerlink" href="#cas-policy" title="Permalink to this heading">#</a></h2>
+<p>If at all possible, absences must be coordinated ahead of time.  Be sure to check your
+SCA to see if instructor “Notification” or “Permission” is required.  There is a difference!
+If it’s “permission” you need, be sure to ask as soon as you know you need it.  Email or Teams
+is the preferred method of communication for CAS.  Be sure to include the lesson
+number along with the reason for your absence.</p>
+</section>
+<section id="collaboration-policy">
+<h2>Collaboration Policy<a class="headerlink" href="#collaboration-policy" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>For CPHs you are allowed to work with other students, use your textbook and other instructor-provided course materials, but not allowed to use Generative AI like ChatGPT or search engines, like google.</p></li>
+<li><p>For the skills review, you are allowed to work with other students, use your 281 textbook and other instructor-provided course materials.</p></li>
+<li><p>For the RISC versus CISC debate, you are allowed to collaborate with students on your own team, use your textbook, and other instructor-provided course materials.</p></li>
+<li><p>For the RISC-V exercise, the only collaboration allowed with classmates is for general questions, such as how the 9 assembly instructions work and relate to the block diagrams of figures C.18, C.19 and C.25. All the work filling out the spreadsheets and answering the above questions must be your own work.  Do not look at each other’s spreadsheets or answers to the above questions.</p></li>
+<li><p>For the final project, the only collaboration allowed with classmates is for general questions, such has how to implement VHDL code, like “how to make a process statement to implement a register”, not for specific coding in this assignment, or for general concepts regarding the blocks in the block diagram.  All coding must be your own work.  Do not look at each other’s code.  You are not allowed to have another student look at your code to help with debugging, unless given specific authorization from your instructor.</p></li>
+<li><p>Regardless of the assignment, all collaboration must be clearly documented; copying another person’s work, with or without documentation, will result in NO academic credit.</p></li>
+</ul>
+</section>
+<section id="genai-policy">
+<h2>GenAI Policy<a class="headerlink" href="#genai-policy" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>For CPHs you are not allowed to use Generative AI like ChatGPT or search engines, like google (GenAI level 0: No use of GenAI)</p></li>
+<li><p>For the skills review, you are allowed to Generative AI like ChatGPT or search engines, like google at GenAI level 1: Organizational / Explanatory use of GenAI.</p></li>
+<li><p>For the RISC versus CISC debate, you are allowed to Generative AI like ChatGPT or search engines, like google at GenAI level 5: Unrestricted, attributed use of GenAI.</p></li>
+<li><p>For the RISC-V exercise, regarding the use of GenAI or search engines is GenAI level 1: Organizational / Explanatory use of GenAI. For example, you can prompt GenAI on how the 9 assembly instructions work and relate to the block diagrams of figures C.18, C.19 and C.25; however, all the work filling out the spreadsheets and answering the above questions must be your own work.  Do not ask GenAI to produce specific answers to the spreadsheets or the above questions.</p></li>
+<li><p>For the final project, the use of generative AI (e.g., ChatGPT) or search engines is “level 2: Use of GenAI for brainstorming or idea generation.” For example, you can prompt GenAI on how to implement basic hardware in VHDL, such as “how to you implement a 32-bit register in VHDL?” “How to you implement a multiplexer using the when statement?” or ask basic questions about the RISC-V multicycle architecture, like “why is the ALU controller separate from the Control Unit in RISC-V?”; however, any coding must be your own work.  Do not ask GenAI to produce specific code for this assignment, like “Given this VHDL code for the ALU, add the SUBI function.”</p></li>
+<li><p>Regardless of the assignment, any use of GenAI or internet searches must be clearly documented, including all prompts used. Failure to follow this policy will result in NO academic credit.</p></li>
+<li><p>One warning about GenAI and RISC-V: besides the common problem of GenAI hallucinations, there are different versions of RISC-V, different from this assignment, so GenAI could lead you astray.</p></li>
+</ul>
+</section>
+<section id="graded-evaluations">
+<h2>Graded Evaluations<a class="headerlink" href="#graded-evaluations" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>These include the quizzes and the GRs.  Primary sources for questions include the textbook, information presented in class, handouts, and homework problems.</p></li>
+<li><p>You must notify your instructor one lesson in advance to schedule a make-up if you anticipate missing any scheduled graded evaluation or assigment turn-in.  Schedule makeup exams or extension beforehand!</p></li>
+</ul>
+</section>
+<section id="homework-and-quizzes">
+<h2>Homework and Quizzes<a class="headerlink" href="#homework-and-quizzes" title="Permalink to this heading">#</a></h2>
+<p>The outline on the course blackboard site shows computer homework (CPH) and regular homework problems for each lesson.  Your CPH/homework is due by the beginning of class of the lesson noted in the column “Due Today.”  As always, you are responsible for all readings, whether or not they are covered in class.  Quizzes will be given at the discretion of the individual instructor.  Quizzes may or may not be announced.</p>
+</section>
+<section id="late-work-policy">
+<h2>Late Work Policy<a class="headerlink" href="#late-work-policy" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>CPH’s must be turned in on time (else a zero if late).  See section 12.</p></li>
+<li><p>Policy for all other assignments:
+– Late turn-in penalties are:
+— <s>10%	if by taps on the day it is due </s>
+— <s>25%	for the first calendar day </s>
+— <s>50%	for the second calendar day </s>
+— <s>75%	for the third calendar day </s>
+— <s>100%	for four or more calendar day (at this point you get a 0). </s>
+— 10%	for the first calendar day
+— another 20%	for the second calendar day
+— another 30%	for the third calendar day
+— another 40%	for four or more calendar day (at this point you get a 0).</p></li>
+<li><p>If notified in advance, an instructor can make individual exceptions to this policy or possibly grant extensions.</p></li>
+<li><p>Regarding extensions on the final project: The schedule for the due dates for the final project is published lesson 1.  Do not expect any extensions.  For example, if going on a trip the week a stage is due, you are expected to turn it in BEFORE you leave… schedule your time appropriately.</p></li>
+</ul>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -444,6 +632,33 @@ document.write(`
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-goals">Course Goals</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-objectives">Course Objectives</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-prerequisites">Course Prerequisites</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-schedule">Course Schedule</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#grade-distribution-and-policy">Grade Distribution and Policy</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#textbooks">Textbooks</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#extra-instruction-ei">Extra Instruction (EI)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#cas-policy">CAS Policy</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#collaboration-policy">Collaboration Policy</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#genai-policy">GenAI Policy</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#graded-evaluations">Graded Evaluations</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#homework-and-quizzes">Homework and Quizzes</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#late-work-policy">Late Work Policy</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
