@@ -3,18 +3,15 @@
 [Syllabus](ECE_485_syllabus.pdf) <-- new format version
 
 ## Course Identification
-  department   = {Department of Electrical and Computer Engineering},
-  course       = {ECE 485},
-  title        = {Advanced Computer Architecture},
-  hours        = {3.0},
-  term         = {Spring 2027},
-  prereqs      = {ECE 382 and either Math 220, 300, 356, or 377},
-  coreqs       = {None},
 
 |  |  | 
 | :--- | :--- | 
-| **Security** | End-to-end data encryption | 
-| **Interface** | Clean and responsive design |
+| **Department** | Department of Electrical and Computer Engineering | 
+| **Course Numnber** | ECE 485 |
+| **Course Title** | Advanced Computer Architecture |
+| **Term** | Spring 2027 |
+| **Prerequisites** | ECE 382 and either Math 220, 300, 356, or 377 |
+| **Co-requisites** | None |
 
 ## Course Goals
 The goal of this course is for cadets to develop the ability to analyze and compare a variety of computer architectures.
