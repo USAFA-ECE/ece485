@@ -52,9 +52,7 @@ The required textbook for this is Computer Architecture: A Quantitative Approach
 |  |  | 
 | :--- | :--- | 
 | **Quizzes** | There are typically 3 quizzes. Quizzes may or may not be announced. | 
-| **GRs** | There are two GRs. Primary sources for questions include the textbook, information presented in class, handouts, and homework problems. All exams are closed textbook and notes. Students are allowed an equation sheet, for GR1, the front side of a 8x11.5 sheet of paper, and for GR2, both sides of a 8x11.5 sheet of paper.  Only equations may be on the equation sheet. Worked out problems and vocabulary definitions are not allowed. GRs are individual effort.
-
-You must notify your instructor one lesson in advance to schedule a make-up if you anticipate missing any scheduled graded evaluation.  Schedule makeup exams before missing the exam!  |
+| **GRs** | There are two GRs. Primary sources for questions include the textbook, information presented in class, handouts, and homework problems. All exams are closed textbook and notes. Students are allowed an equation sheet, for GR1, the front side of a 8x11.5 sheet of paper, and for GR2, both sides of a 8x11.5 sheet of paper.  Only equations may be on the equation sheet. Worked out problems and vocabulary definitions are not allowed. GRs are individual effort.<br> You must notify your instructor one lesson in advance to schedule a make-up if you anticipate missing any scheduled graded evaluation.  Schedule makeup exams before missing the exam!  |
 
  
 }
