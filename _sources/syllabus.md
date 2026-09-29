@@ -48,6 +48,21 @@ The required textbook for this is Computer Architecture: A Quantitative Approach
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 | 93 - 100  |  90 - 93  | 87 - 90  |  83 - 87  | 80 - 83 | 77 - 80 | 73 - 77 | 70 - 73 | 60 - 70  | 0 - 60 |
 
+### Assignment Description
+\Row{Quizzes}{There are typically 3 quizzes. Quizzes may or may not be announced.}
+\Row{GRs}{There are two GRs. Primary sources for questions include the textbook, information presented in class, handouts, and homework problems. All exams are closed textbook and notes. Students are allowed an equation sheet, for GR1, the front side of a 8x11.5 sheet of paper, and for GR2, both sides of a 8x11.5 sheet of paper.  Only equations may be on the equation sheet. Worked out problems and vocabulary definitions are not allowed. GRs are individual effort.
+
+You must notify your instructor one lesson in advance to schedule a make-up if you anticipate missing any scheduled graded evaluation.  Schedule makeup exams before missing the exam!  
+}
+\Row{Skills Review}{There is a skill review, primarily of your ECE 281 knowledge, due lesson 4. This will be averaged with your quiz grade}
+\Row{RISC/CISC Debate}{Around lesson 8, you will be assigned a team to compete in the RISC/CISC Debate.  This grade will be averaged with your quiz grade.}
+\Row{CPH}{Computer Homeworks are due at 0800 the day of your class.  Thes are a combination of preflights over the reading and homework, and a usually online via blackboard or gradescope.
+}
+\Row{RISC-V Exercise}{this lab will be due around lesson 13 to prepare for the final project}
+\Row{Final Project}{The Final Project will be done in 4 stages, inplementing a pipelined processor in VHDL.}
+
+
+
 ## Course Prerequisites
 - Microcomputer programming  [ECE 382]
 - Assembly language programming, instruction sets, interrupts, I/O timing, parallel communications/busses, computer memory. [ECE 382]
