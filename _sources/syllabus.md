@@ -11,8 +11,8 @@
   prereqs      = {ECE 382 and either Math 220, 300, 356, or 377},
   coreqs       = {None},
 
-| :--- | :--- | :--- |
 | **Performance** | High speed and optimization | Completed |
+| :--- | :--- | :--- |
 | **Security** | End-to-end data encryption | Pending |
 | **Interface** | Clean and responsive design | Active |
 
