@@ -29,6 +29,18 @@ The required textbook for this is Computer Architecture: A Quantitative Approach
 | :--- | :--- | :--- |
 | **Computer Architecture: A Quantitative Approach** | Hennessy & Patterson | 6th Edition |
 
+## Grading
+
+The **Grade distribution** for this course is shown below.
+### Assignments/Course Assessments
+
+|  Component   |       Prog      |                   |     Final        |
+|---------------------------|-------------|------------------------|-------------|
+|     GRs (1)               |     40%     |     GRs (2)            |     40%     |
+|     Skills Review         |     10%     |     HW/Quizzes/CPH/lab |     25%     |
+|   HW/Quizzes/CPH/lab      |     50%     |     Final Project      |     35%     |
+|                           |             |                        |             |
+|     Total                 |     100%    |     Total              |     100%    |
 
 
 
@@ -42,17 +54,6 @@ The required textbook for this is Computer Architecture: A Quantitative Approach
 ## Course Schedule
 The course schedule is [here](schedule.md)
 
-## Grade Distribution and Policy
-
-The **Grade distribution** for this course is shown below.
-
-|     Prog                  |             |     Final              |             |
-|---------------------------|-------------|------------------------|-------------|
-|     GRs (1)               |     40%     |     GRs (2)            |     40%     |
-|     Skills Review         |     10%     |     HW/Quizzes/CPH/lab |     25%     |
-|   HW/Quizzes/CPH/lab      |     50%     |     Final Project      |     35%     |
-|                           |             |                        |             |
-|     Total                 |     100%    |     Total              |     100%    |
 
 <br>
 
