@@ -11,10 +11,10 @@
   prereqs      = {ECE 382 and either Math 220, 300, 356, or 377},
   coreqs       = {None},
 
-| **Performance** | High speed and optimization | Completed |
-| :--- | :--- | :--- |
-| **Security** | End-to-end data encryption | Pending |
-| **Interface** | Clean and responsive design | Active |
+|  |  | 
+| :--- | :--- | 
+| **Security** | End-to-end data encryption | 
+| **Interface** | Clean and responsive design |
 
 ## Course Goals
 The goal of this course is for cadets to develop the ability to analyze and compare a variety of computer architectures.
