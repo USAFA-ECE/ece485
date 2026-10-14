@@ -4,12 +4,12 @@
 This schedule is subject to change as appropriate.
 ```
 <br>
-```{note}
-Reading Hiearchy
+
+##Reading Hierarchy
 <ul><li> (S) Survey: Get the big picture quickly. Skim.
 </li><li> (U) Understand: Comprehend the content accurately. Read and Comprehend.
 </li><li> (E) Engage: Critically think about and apply what you read. Critique, compare, create </li></ul> 
-```
+<br>
 **Last Updated: 2 January 2026**
 
 | Lsn    | Topic                                               | Pre-Flight   | Graded Event             |
