@@ -10,7 +10,7 @@ This schedule is subject to change as appropriate.
 </li><li> (U) Understand: Comprehend the content accurately. Read and Comprehend.
 </li><li> (E) Engage: Critically think about and apply what you read. Critique, compare, create </li></ul> 
 <br>
-**Last Updated: 2 January 2026**
+**Last Updated: 14 October 2026**
 
 | Lsn    | Topic                                               | Pre-Flight   | Graded Event             |
 |:------:|----------------------------------------------|---------------------------------------------|------------------|
