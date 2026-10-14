@@ -5,7 +5,7 @@ This schedule is subject to change as appropriate.
 ```
 <br>
 
-##Reading Hierarchy
+**Reading Hierarchy**
 <ul><li> (S) Survey: Get the big picture quickly. Skim.
 </li><li> (U) Understand: Comprehend the content accurately. Read and Comprehend.
 </li><li> (E) Engage: Critically think about and apply what you read. Critique, compare, create </li></ul> 
