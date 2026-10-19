@@ -36,9 +36,10 @@ The required textbook for this is Computer Architecture: A Quantitative Approach
 |  Component   |       Prog      |                   |     Final        |
 |---------------------------|-------------|------------------------|-------------|
 |     GRs (1)               |     40%     |     GRs (2)            |     40%     |
-|     Skills Review         |     10%     |     HW/Quizzes/CPH/lab |     25%     |
-|   HW/Quizzes/CPH/lab      |     50%     |     Final Project      |     35%     |
-|                           |             |                        |             |
+|     Skills Review         |     10%     |     Skills Review      |      0%     |
+|   HW/Quizzes/CPH/lab      |     50%     | HW/Quizzes/CPH/lab     |     15%     |
+|     CPX(0)                |      0%     |     CPX(4)             |     20%     |
+|     Final Exam            |      0%     |     Final Exam         |     25%     |
 |     Total                 |     100%    |     Total              |     100%    |
 
 
