@@ -58,8 +58,8 @@ The required textbook for this is Computer Architecture: A Quantitative Approach
 | **RISC/CISC Debate** | Around lesson 8, you will be assigned a team to compete in the RISC/CISC Debate.  This grade will be averaged with your quiz grade. |
 | **CPH** | Computer Homeworks are due at 0800 the day of your class.  These are a combination of preflights over the reading before a lesson and homework after a lesson, and are usually online via blackboard or gradescope. |
 | **RISC-V Exercise** | This lab will be due around lesson 13 to prepare for the final project |
-| **Final Project** | The Final Project will be done in 4 stages, implementing a pipelined processor in VHDL. Students must complete all 4 stages, meeting at least "basic functionality." Failure to meet "basic functionality" in all 4 labs will result in a "controllable incomplete" grade, until all stages are complete. |
-
+| **CPX** | There will be 4 Computer Exercises (CPX), implementing a pipelined processor in VHDL. Students must complete all 4 stages, meeting at least "basic functionality." Failure to meet "basic functionality" in all 4 stages will result in a "controllable incomplete" grade, until all stages are complete. |
+| **Final Exam** | The Final Exam will cover all 41 lessons of the course. |
 
 ## Course Policies
 |  |  | 
