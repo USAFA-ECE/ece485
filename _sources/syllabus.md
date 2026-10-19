@@ -14,7 +14,7 @@
 | **Co-requisites** | None |
 
 ## Course Description
-This final course in the Computer Systems Area of Study quantitatively examines trade-offs in the design of high-performance computer systems. Topics include price/performance, instruction sets, hardwired control versus microprogramming, memory hierarchy, cache memory, virtual memory, pipelining, reduced instruction set computers (RISC), input/output, and parallel processing. Final project will examine state-of-the-art processors and computers. Lab.  - 3 credits spring
+This final course in the Computer Systems Area of Study quantitatively examines trade-offs in the design of high-performance computer systems. Topics include price/performance, instruction sets, hardwired control versus microprogramming, memory hierarchy, cache memory, virtual memory, pipelining, reduced instruction set computers (RISC), input/output, and parallel processing. The Project will examine state-of-the-art processors and computers. Lab. Final Exam.  - 3 credits spring.
 
 ## Course Objectives
 Cadets shall be able to:
