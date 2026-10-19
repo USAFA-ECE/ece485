@@ -32,8 +32,8 @@ This schedule is subject to change as appropriate.
 | 16  | Tomasulo's Algorithm & Dynamic Branch Prediction      | <ul><li> CPH15 due 0800 </li><li> Sorry, no CPH15 this year  </li><li>read 3.3, 3.6  (U) </li><li>lesson slides are on course TEAMs site </li></ul>   |   |
 | 17  | Branch Target Buffers, Speculation                    | <ul><li> CPH17 due 0800 </li><li>read 3.7 - 3.9, 3.12-3.14, 5.8  (U) </li><li>[L17_Worksheet](handouts/L17_Worksheet.docx)</li><li>lesson slides are on course TEAMs site  </li></ul>   |  |   
 | 18  | GR#1                                  |                      |   GR#1|
-| 19  | Final Project Stage1                              |   [Stage1 Assignment](finalproject/finalprojectstage1.md), due taps M21                   |                   |
-| 20  | Final Project Stage1                              |                    |      |
+| 19  | CPX Stage1                              |   [Stage1 Assignment](finalproject/finalprojectstage1.md), due taps M21                   |                   |
+| 20  | CPX Stage1                              |                    |      |
 | 21  | VLIW & Superscalar, SIMD?   | <ul><li> [Stage1 Assignment](finalproject/finalprojectstage1.md), due taps M21 </li><li> read 4.3  (U) </li><li> [MultiscalarProcessors](handouts/MultiscalarProcessors.pdf)  (S)  </li><li> lesson slides are on course TEAMs site </li></ul> |  |
 | skip | Data-Level Parallelism in Vector, SIMD, GPU Architectures          | <ul><li> 4.1, 4.2, 4.3, (skim 4.4) </li><li> [MorphologyVLIW_MAP1000](handouts/MorphologyVLIW_MAP1000.pdf)  </li></ul> |  |  
 | 22  | Memory Hierarchy Design: Cache Memory             | <ul><li> CPH20 due 0800 </li><li>read 2.1, B.1, B.2  (U) </li><li>[L20_Worksheet](handouts/L20_Worksheet.docx)</li><li>lesson slides are on course TEAMs site  </li></ul>  |  |
@@ -41,21 +41,21 @@ This schedule is subject to change as appropriate.
 | 24  | Improving Cache Performance                       | <ul><li> CPH22 due 0800 </li><li>read 2.1, B.1, B.2, B.3, B.4  (U) </li><li>lesson slides are on course TEAMs site </li></ul>  | QUIZ TODAY? |
 | 25  | Improving Cache Performance; Main Memory          | <ul><li> CPH25 due 0800 </li><li>read 2.2, B.3, B.4  (U) </li><li>[L22_Worksheet](handouts/L22_Worksheet.docx) </li><li>lesson slides are on course TEAMs site </li></ul>  | |
 | 26  | Virtual Memory                                    | <ul><li> CPH25 due 0800 </li><li>read 2.4  (U) </li><li>lesson slides are on course TEAMs site </li></ul>     |  | 
-| 27  | Final Project Stage2                              | [Stage2 Assignment](finalproject/finalprojectstage2.md) due taps lesson M29    |        |
-| 28  | Final Project Stage2                              |    |     |
+| 27  | CPX Stage2                              | [Stage2 Assignment](finalproject/finalprojectstage2.md) due taps lesson M29    |        |
+| 28  | CPX Stage2                              |    |     |
 | 29  | Storage Devices: RAID                             | <ul><li> CPH27 due 0800 </li><li>read D.1 - D.3  (U) </li><li>skim D.4, D.7  (S) </li><li>  [Online Appendice D](handouts/append_d.pdf)</li><li>lesson slides are on course TEAMs site  </li></ul>         |   |                        
 | 30  | I/O Interfacing & Performance, Interconnection Networks | <ul><li> CPH29 due 0800 </li><li>read F.1, F.2  (U) </li><li>skim F.5, F.6  (S) </li><li>  [Online Appendice F](handouts/append_f.pdf) </li><li>lesson slides are on course TEAMs site   </li></ul>        |    | 
 | 31  | LAN Topologies, Routers/Gateways, Flynn's Taxonomy; Memory Arch  | <ul><li> CPH30 due 0800 </li><li>read F.1, F.2  (U); skim F.5, F.6  (S) </li><li>[L29 Worksheet](handouts/L29_Worksheet.docx)</li><li>lesson slides are on course TEAMs site  </li></ul>   |        |   
 | 32  | Introduction to Multiprocessors                    | <ul><li> read page 10; 5.1  (U)</li><li>[L30 Worksheet](handouts/L30_Worksheet.docx)</li><li>lesson slides are on course TEAMs site  </li></ul>           |  |
 | 33  | Symmetric Shared Memory Architectures              | <ul><li> CPH31 due 0800 </li><li>read 5.2  (U) </li><li>[L31 Worksheet](handouts/L31_Worksheet.docx)</li><li>lesson slides are on course TEAMs site  </li></ul>           |  |
 | skip | <s>Lead a 6-minute discussion on computing laws <ul><li> Moore's Law </li><li> Metcalfe's Law </li><li> Yules Law </li><li> Hoff' Law </li><li> Evan's Law  </li><li> Law of Digitiplication </li></ul></s> | <ul><li>  [4 new laws beyond Moore's](https://spectrum.ieee.org/on-beyond-moores-law-4-new-laws-of-computing) </li><li> [Myths about AI processors](https://www.electronicdesign.com/technologies/embedded/machine-learning/article/55307254/vsora-11-myths-about-ai-processors) </li></ul>    |  
-| 34  | Final Project Stage3                               | [Stage3 Assignment](finalproject/finalprojectstage3.md), due taps lesson M36    |   |             
-| 35  | Final Project Stage3                                |       |        |
-| 36  | Final Project Stage3                                |                          |   |        
+| 34  | CPX Stage3                               | [Stage3 Assignment](finalproject/finalprojectstage3.md), due taps lesson M36    |   |             
+| 35  | CPX Stage3                                |       |        |
+| 36  | CPX Stage3                                |                          |   |        
 | 37  | Distributed Memory Coherence                        | <ul><li> CPH32 due 0800 </li><li>read 5.4  (U) </li><li>skim 5.5, 5.6  (S) </li><li>[L32 Worksheet](handouts/L32_Worksheet.docx) </li><li>lesson slides are on course TEAMs site </li></ul>          |   |
 | skip | <s>Clusters, Example: Google Cluster, LAN Example   </s>                  | 6.5 - 6.8; L29 Google Arch.pdf  | [GoogleArchitecture](handouts/GoogleArchitecture.pdf)   |
 | 38  | GR#2                                                 |                          |   GR#2              |                                               
-| 39  | Final Project Stage4                                  |  [Stage4 Assignment](finalproject/finalprojectstage4.md), due lesson M41, taps    |                |     
-| 40  | Final Project Stage4                                  |                          |              |
-| 41  | Final Project <s>Quiz (worth 2 quiz grades)</s>       |                          |     |
+| 39  | CPX Stage4                                  |  [Stage4 Assignment](finalproject/finalprojectstage4.md), due lesson M41, taps    |                |     
+| 40  | CPX Stage4                                  |                          |              |
+| 41  | CPX <s>Quiz (worth 2 quiz grades)</s>       |                          |     |
 
