@@ -53,9 +53,9 @@ This schedule is subject to change as appropriate.
 | 35  | CPX Stage3                                |       |        |
 | 36  | CPX Stage3                                |                          |   |        
 | 37  | Distributed Memory Coherence                        | <ul><li> CPH32 due 0800 </li><li>read 5.4  (U) </li><li>skim 5.5, 5.6  (S) </li><li>[L32 Worksheet](handouts/L32_Worksheet.docx) </li><li>lesson slides are on course TEAMs site </li></ul>          |   |
-| skip | <s>Clusters, Example: Google Cluster, LAN Example   </s>                  | 6.5 - 6.8; L29 Google Arch.pdf  | [GoogleArchitecture](handouts/GoogleArchitecture.pdf)   |
-| 38  | GR#2                                                 |                          |   GR#2              |                                               
-| 39  | CPX Stage4                                  |  [Stage4 Assignment](finalproject/finalprojectstage4.md), due lesson M41, taps    |                |     
+| skip | <s>Clusters, Example: Google Cluster, LAN Example   </s>                  | 6.5 - 6.8; L29 Google Arch.pdf  | [GoogleArchitecture](handouts/GoogleArchitecture.pdf)   |                                        
+| 38  | CPX Stage4                                  |  [Stage4 Assignment](finalproject/finalprojectstage4.md), due lesson M41, taps    |                |   
+| 39  | GR#2                                                 |                          |   GR#2              |           
 | 40  | CPX Stage4                                  |                          |              |
 | 41  | CPX <s>Quiz (worth 2 quiz grades)</s>       |                          |     |
 
